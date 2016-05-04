@@ -1,5 +1,7 @@
 # Pedestal
 
+![pedestal](https://cloud.githubusercontent.com/assets/703215/15011803/1a3d7ad6-11f4-11e6-84d8-8e4f334d9981.png)
+
 ## Requirements
 
 * PHP >= 5.6
