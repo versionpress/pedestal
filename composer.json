@@ -11,6 +11,10 @@
       "homepage": "https://github.com/janvoracek"
     }
   ],
+  "scripts": {
+    "pre-update-cmd": "wp vp-composer prepare-for-composer-changes",
+    "post-update-cmd": "wp vp-composer commit-composer-changes"
+  },
   "config": {
     "preferred-install": "dist"
   },
